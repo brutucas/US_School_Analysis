@@ -48,6 +48,8 @@ The specific analysis of my adopted 'home state' added a personal dimension, all
 
 Reflecting on the project, I recognize the importance of early-stage data cleaning decisions and their impact on analysis outcomes. The exploration of this dataset has opened my eyes to the myriad of ways data can inform and improve educational policies and practices.
 
-This project was a deep dive into the heart of US public school education, and underscored the critical role of data analysis in shaping educational landscapes. By leveraging data, we can uncover insights that lead to meaningful improvements in how education is delivered. It might sound cliched, but using data effectively could significantly contribute to ensuring that every student has access to quality learning environments.
+This project was a deep dive into the heart of US public school education, and underscored the critical role of data analysis in shaping educational landscapes. By leveraging data, we can uncover insights that lead to meaningful improvements in how education is delivered. 
+
+As cliched as it might sound, the effective cleaning, analysis, and application of data could (in this particular case) significantly contribute to ensuring that every student has access to quality learning environments.
 
 
